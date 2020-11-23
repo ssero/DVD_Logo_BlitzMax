@@ -1,6 +1,8 @@
 DVD Logo made with BlitzMax:
 ----------------------------
 
+![Sample Gif of DVD Logo program made with BlitzMax](DVD_Logo_BlitzMax_sample.gif)
+
 Answers for Amir:
 + The program uses 37 lines of codes. Everything readable, no optimization.
 + You need basic programming understanding to be able to follow the code. Variables, control flow and functions must be already known. No other complex concepts which are unique to BlitzMax are needed. As close to "pseudo-code" as possible. BASIC for the win!
